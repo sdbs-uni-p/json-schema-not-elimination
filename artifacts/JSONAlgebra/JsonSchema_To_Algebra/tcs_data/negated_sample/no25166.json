@@ -1,0 +1,10 @@
+{ "not" : {
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "object",
+    "properties": {
+        "bar": {
+            "type": "string",
+            "default": "Hello World"
+        }
+    }
+}}

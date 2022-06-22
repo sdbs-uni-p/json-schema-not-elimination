@@ -1,0 +1,19 @@
+{ "not" : {
+    "properties": {
+        "transforms": {
+            "items": {
+                "properties": {
+                    "from": {
+                        "type": "string"
+                    },
+                    "to": {
+                        "type": "string"
+                    }
+                },
+                "type": "object"
+            },
+            "type": "array"
+        }
+    },
+    "type": "object"
+}}

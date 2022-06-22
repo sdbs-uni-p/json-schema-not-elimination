@@ -1,0 +1,29 @@
+{ "not" : {
+    "additionalProperties": false,
+    "properties": {
+        "scopes": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "scope": {
+                        "type": "string"
+                    },
+                    "uri": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "scope",
+                    "uri"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        }
+    },
+    "required": [
+        "scopes"
+    ],
+    "title": "ScopeRegisterRequest",
+    "type": "object"
+}}

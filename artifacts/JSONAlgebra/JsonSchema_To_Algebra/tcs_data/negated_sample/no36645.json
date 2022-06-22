@@ -1,0 +1,10 @@
+{ "not" : {
+    "properties": {
+        "message": {
+            "enum": [
+                "acknowledged"
+            ]
+        }
+    },
+    "type": "object"
+}}

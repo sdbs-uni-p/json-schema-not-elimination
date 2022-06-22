@@ -1,0 +1,7 @@
+{ "not" : {
+    "items": {
+        "additionalProperties": false,
+        "type": "string"
+    },
+    "type": "array"
+}}

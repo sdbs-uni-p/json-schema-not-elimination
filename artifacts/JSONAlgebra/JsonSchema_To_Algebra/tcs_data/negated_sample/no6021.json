@@ -1,0 +1,14 @@
+{ "not" : {
+    "additionalProperties": false,
+    "properties": {
+        "name": {
+            "maxLength": 10,
+            "minLength": 10,
+            "type": "string"
+        }
+    },
+    "required": [
+        "name"
+    ],
+    "type": "object"
+}}

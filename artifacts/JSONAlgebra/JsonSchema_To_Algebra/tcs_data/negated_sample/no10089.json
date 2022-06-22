@@ -1,0 +1,13 @@
+{ "not" : {
+    "additionalProperties": false,
+    "properties": {
+        "data": {},
+        "error": {},
+        "meta": {
+            "type": "object"
+        },
+        "warning": {}
+    },
+    "title": "API Results",
+    "type": "object"
+}}

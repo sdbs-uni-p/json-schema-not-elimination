@@ -1,0 +1,6 @@
+{ "not" : {
+    "default": 0,
+    "description": "",
+    "title": "number",
+    "type": "number"
+}}

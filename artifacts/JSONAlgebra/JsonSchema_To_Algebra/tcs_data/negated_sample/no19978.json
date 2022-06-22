@@ -1,0 +1,5 @@
+{ "not" : {
+    "properties": {},
+    "title": "All playground components to a given module",
+    "type": "object"
+}}

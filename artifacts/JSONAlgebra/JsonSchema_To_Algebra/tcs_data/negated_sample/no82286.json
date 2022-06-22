@@ -1,0 +1,10 @@
+{ "not" : {
+    "additionalProperties": false,
+    "properties": {
+        "port": {
+            "default": 8080,
+            "type": "integer"
+        }
+    },
+    "type": "object"
+}}

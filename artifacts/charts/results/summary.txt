@@ -1,0 +1,29 @@
+--- Summary information about the corpus ---
+	Min Size: 25
+	Max Size: 747779
+	Average Size: 3984.37
+	Median Size: 1524.0
+
+--- Summary of experimental results for original schemas ---
+runtime (ms)
+	avg: 144.158
+	median: 1.0
+	max: 178107
+	min: 0
+size ratio
+	avg: 4.43
+	median: 4.14
+	max: 47.14
+	min: 1.66
+
+--- Summary of experimental results for negation-injected schemas ---
+runtime (ms)
+	avg: 49.082
+	median: 1.0
+	max: 24733
+	min: 0
+size ratio
+	avg: 5.5
+	median: 5.19
+	max: 45.242
+	min: 1.81

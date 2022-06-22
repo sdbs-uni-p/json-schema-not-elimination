@@ -1,0 +1,16 @@
+{ "not" : {
+    "additionalProperties": false,
+    "properties": {
+        "en": {
+            "type": "string"
+        },
+        "ru": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "ru",
+        "en"
+    ],
+    "type": "object"
+}}

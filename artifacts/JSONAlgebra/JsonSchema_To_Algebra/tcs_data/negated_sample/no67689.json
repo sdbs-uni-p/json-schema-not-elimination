@@ -1,0 +1,5 @@
+{ "not" : {
+    "default": true,
+    "description": "Show the \"back to top\" button",
+    "type": "boolean"
+}}
